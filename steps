@@ -2,7 +2,7 @@ copy and paste text from iPhone to a windows pc using iPhone shortcuts
 STEP1: download python on your computer from:  https://www.python.org/downloads/ or microsoft store
 Step2: open command prompt by searching in the search bar
 type " pip install flask pyperclip " and enter 
-copy and paste the code in the  file attached into a code editor(notepad or VScode) and save it as a python file.
+copy and paste the code in the "clipboard_sync_server" file attached into a code editor(notepad or VScode) and save it as a python file as clipboard_sync_server.py .
 Then open command prompt and navigate to the folder where you saved your file and run this command " python clipboard_sync_server.py ".
 Step3: find your pc ip adress by " ipconfig " on the command interface
 Step4: go to your Iphone Shortcut app and click the '+' sign on the top right corner 
