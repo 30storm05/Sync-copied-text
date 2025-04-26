@@ -1,4 +1,7 @@
 # Sync-copied-text
+This helps to create a connection between your Iphone and Pc so that you can directly paste things from yout iPhone onto your Computer or Laptop.
+
+
 copy and paste text from iPhone to a windows pc using iPhone shortcuts
 STEP1: download python on your computer from:  https://www.python.org/downloads/ or microsoft store
 Step2: open command prompt by searching in the search bar
