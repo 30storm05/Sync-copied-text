@@ -1,6 +1,4 @@
-#first run this command 
-pip install flask pyperclip
-#after installing 
+
 # clipboard_sync_server.py
 from flask import Flask, request, jsonify
 import pyperclip
